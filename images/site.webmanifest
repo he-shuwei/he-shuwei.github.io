@@ -1,0 +1,14 @@
+{
+    "name": "Shuwei He",
+    "short_name": "Shuwei He",
+    "icons": [
+       {
+          "src": "/images/touxiang.jpg",
+          "sizes": "512x512",
+          "type": "image/jpeg"
+       }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "display": "standalone"
+ }

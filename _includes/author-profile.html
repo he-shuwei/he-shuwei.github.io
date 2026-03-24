@@ -1,0 +1,59 @@
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Person" class="profile_box">
+
+  <div class="author__avatar">
+    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+  </div>
+
+  <div class="author__urls-wrapper">
+    <ul class="author__urls social-icons">
+      {% if site.description %}
+        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+      {% endif %}
+      {% if author.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% endif %}
+      {% if author.employer %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+      {% endif %}
+      {% if author.uri %}
+        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+      {% endif %}
+      {% for link in site.data.social_links %}
+        {% assign value = author[link.key] %}
+        {% if value %}
+          {% if link.url_suffix %}
+            {% assign href = link.url_prefix | append: value | append: link.url_suffix %}
+          {% else %}
+            {% assign href = link.url_prefix | append: value %}
+          {% endif %}
+          <li><a href="{{ href }}"><i class="{{ link.icon }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <div class="author__urls_sm">
+      {% if author.uri %}
+        <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+      {% endif %}
+      {% for link in site.data.social_links %}
+        {% assign value = author[link.key] %}
+        {% if value %}
+          {% if link.url_suffix %}
+            {% assign href = link.url_prefix | append: value | append: link.url_suffix %}
+          {% else %}
+            {% assign href = link.url_prefix | append: value %}
+          {% endif %}
+          <a href="{{ href }}"><i class="{{ link.icon }}" aria-hidden="true"></i></a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

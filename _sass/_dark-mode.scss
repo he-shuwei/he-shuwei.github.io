@@ -1,224 +1,119 @@
-// Dark mode styles
+// Dark mode — override CSS custom properties only
 [data-theme="dark"] {
-  --bg-color: #0d1117;
-  --text-color: #c9d1d9;
-  --text-muted: #8b949e;
-  --link-color: #58a6ff;
-  --link-hover: #79c0ff;
-  --border-color: #21262d;
-  --code-bg: #161b22;
-  --masthead-bg: rgba(13, 17, 23, 0.85);
-  --sidebar-bg: #0d1117;
-  --card-bg: #161b22;
-  --badge-bg: #3271e7;
-  --shadow-color: rgba(0, 0, 0, 0.4);
+  --color-bg:           #0d1117;
+  --color-text:         #c9d1d9;
+  --color-text-muted:   #8b949e;
+  --color-text-subtle:  #8b949e;
+  --color-primary:      #58a6ff;
+  --color-primary-dark: #3271e7;
+  --color-primary-glow: rgba(88, 166, 255, 0.15);
+  --color-link:         #58a6ff;
+  --color-link-hover:   #79c0ff;
+  --color-border:       #21262d;
+  --color-card-bg:      #161b22;
+  --color-code-bg:      #161b22;
+  --color-input-bg:     #161b22;
+  --color-hover-bg:     rgba(88, 166, 255, 0.08);
+  --color-scrollbar:    #30363d;
+  --color-scrollbar-hover: #484f58;
+  --color-scrollbar-track: #0d1117;
+  --color-shadow:       rgba(0, 0, 0, 0.4);
+  --color-nav-text:     #8b949e;
+  --color-badge-gradient: linear-gradient(135deg, #58a6ff, #3271e7);
+  --color-avatar-ring:  linear-gradient(135deg, #58a6ff, #3271e7, #58a6ff);
+  --color-footer-bg:    #010409;
+  --color-footer-text:  #8b949e;
+  --color-footer-link:  #58a6ff;
+  --color-footer-link-hover: #79c0ff;
 
   body {
-    background-color: var(--bg-color);
-    color: var(--text-color);
+    background-color: var(--color-bg);
+    color: var(--color-text);
   }
 
   a {
-    color: var(--link-color);
-    &:hover {
-      color: var(--link-hover);
-    }
+    color: var(--color-link);
+    &:hover { color: var(--color-link-hover); }
   }
 
-  // Masthead / Navigation
+  // Masthead
   .masthead {
-    background-color: var(--masthead-bg);
-    backdrop-filter: saturate(180%) blur(20px);
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    border-bottom-color: var(--border-color);
+    background-color: rgba(13, 17, 23, 0.85);
+    border-bottom-color: var(--color-border);
     box-shadow: 0 1px 8px rgba(0, 0, 0, 0.3);
   }
 
   .greedy-nav {
-    background: transparent;
     a {
-      color: var(--text-muted);
-      &:hover, &.active {
-        color: var(--link-color);
-      }
+      color: var(--color-nav-text);
+      &:hover, &.active { color: var(--color-link); }
     }
-    .visible-links a {
-      &:before {
-        background: var(--link-color);
-      }
+    .visible-links a:before {
+      background: var(--color-link);
     }
   }
 
-  // Sidebar / Author profile
-  .profile_box {
-    background-color: var(--sidebar-bg);
-  }
-
+  // Author profile
   .author__avatar img {
-    background-image: linear-gradient(var(--card-bg), var(--card-bg)), linear-gradient(135deg, #58a6ff, #3271e7, #58a6ff) !important;
-    box-shadow: 0 4px 15px rgba(88, 166, 255, 0.15) !important;
+    background-image: linear-gradient(var(--color-card-bg), var(--color-card-bg)), var(--color-avatar-ring) !important;
+    box-shadow: 0 4px 15px var(--color-primary-glow) !important;
   }
 
+  .author__name, .sidebar .author__name { color: #f0f6fc; }
+  .author__bio { color: var(--color-text-muted); }
+  .author__urls-wrapper li { color: var(--color-text-muted); }
   .author__urls {
-    background: var(--card-bg);
-    border-color: var(--border-color);
+    background: var(--color-card-bg);
+    border-color: var(--color-border);
     a {
-      color: var(--text-color);
-      &:hover {
-        color: var(--link-color);
-      }
+      color: var(--color-text);
+      &:hover { color: var(--color-link); }
     }
   }
 
-  .author__name {
-    color: #f0f6fc;
-  }
-
-  .sidebar .author__name {
-    color: #f0f6fc;
-  }
-
-  .author__bio {
-    color: var(--text-muted);
-  }
-
-  .author__urls-wrapper {
-    li {
-      color: var(--text-muted);
-    }
-  }
-
-  // Page content
+  // Page content headings
   .page__content {
-    h1, h2, h3, h4, h5, h6 {
-      color: #f0f6fc;
-    }
-
-    h1 {
-      border-bottom-color: #21262d;
-    }
-
-    strong {
-      color: #f0f6fc;
-    }
+    h1, h2, h3, h4, h5, h6 { color: #f0f6fc; }
+    h1 { border-bottom-color: var(--color-border); }
+    strong { color: #f0f6fc; }
   }
 
-  // Paper box cards
-  .paper-box {
-    background: var(--card-bg);
-    border-color: var(--border-color);
-    box-shadow: 0 2px 12px var(--shadow-color);
-
-    &:hover {
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
-      border-color: #30363d;
-    }
-
-    .paper-box-image img {
-      box-shadow: 0 2px 8px var(--shadow-color);
-    }
-  }
-
-  .badge {
-    background: linear-gradient(135deg, #58a6ff, #3271e7);
-  }
-
-  // Code blocks
+  // Code & blockquotes
   code, pre {
-    background-color: var(--code-bg);
-    color: var(--text-color);
-    border-color: var(--border-color);
+    background-color: var(--color-code-bg);
+    color: var(--color-text);
+    border-color: var(--color-border);
   }
-
-  // Blockquotes
   blockquote {
     border-left-color: #30363d;
-    color: var(--text-muted);
+    color: var(--color-text-muted);
   }
 
   // Tables
   table {
-    border-color: var(--border-color);
-    th {
-      background-color: var(--card-bg);
-      color: var(--text-color);
-    }
-    td {
-      border-color: var(--border-color);
-    }
-  }
-
-  // News section
-  .news-scroll {
-    background: var(--card-bg);
-    border-color: var(--border-color);
-
-    li:hover {
-      background: rgba(88, 166, 255, 0.08);
-      border-left-color: var(--link-color);
-    }
-
-    &::-webkit-scrollbar-thumb {
-      background: #30363d;
-    }
-  }
-
-  .news-icon {
-    opacity: 0.8;
-  }
-
-  // Footer
-  .page__footer {
-    background-color: #010409;
-    border-top: 1px solid var(--border-color);
-    color: var(--text-muted);
-
-    a {
-      color: var(--link-color);
-      &:hover {
-        color: var(--link-hover);
-      }
-    }
-  }
-
-  // Back to top button
-  .back-to-top {
-    background: linear-gradient(135deg, #58a6ff, #3271e7);
-    box-shadow: 0 4px 15px rgba(88, 166, 255, 0.25);
-    &:hover {
-      box-shadow: 0 6px 20px rgba(88, 166, 255, 0.35);
-    }
-  }
-
-  // Publication filter
-  .pub-search-input {
-    background-color: var(--card-bg);
-    color: var(--text-color);
-    border-color: var(--border-color);
-    &:focus {
-      border-color: var(--link-color);
-      box-shadow: 0 0 0 4px rgba(88, 166, 255, 0.1);
-      background-color: var(--bg-color);
-    }
-    &::placeholder {
-      color: var(--text-muted);
-    }
-  }
-
-  .pub-search-count {
-    color: var(--text-muted);
-  }
-
-  // News items
-  .page__content > ul > li {
-    &:hover {
-      border-left-color: var(--link-color);
-    }
+    border-color: var(--color-border);
+    th { background-color: var(--color-card-bg); color: var(--color-text); }
+    td { border-color: var(--color-border); }
   }
 
   // Images
-  img {
-    opacity: 0.92;
+  img { opacity: 0.92; }
+
+  // Footer
+  .page__footer {
+    background-color: var(--color-footer-bg);
+    border-top: 1px solid var(--color-border);
+    color: var(--color-footer-text);
+    a {
+      color: var(--color-footer-link);
+      &:hover { color: var(--color-footer-link-hover); }
+    }
+  }
+
+  // Theme toggle icon
+  .theme-toggle {
+    color: #ffd43b;
+    &:hover { color: #ffe066; }
   }
 
   // Selection
@@ -228,21 +123,9 @@
   }
 
   // Scrollbar
-  ::-webkit-scrollbar-track {
-    background: var(--bg-color);
-  }
+  ::-webkit-scrollbar-track { background: var(--color-scrollbar-track); }
   ::-webkit-scrollbar-thumb {
-    background: #30363d;
-    &:hover {
-      background: #484f58;
-    }
-  }
-
-  // Theme toggle icon color
-  .theme-toggle {
-    color: #ffd43b;
-    &:hover {
-      color: #ffe066;
-    }
+    background: var(--color-scrollbar);
+    &:hover { background: var(--color-scrollbar-hover); }
   }
 }

@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+math: true
 redirect_from:
   - /about/
   - /about.html
@@ -34,7 +35,7 @@ I am always open to research collaborations and new opportunities. If you are in
 
 ### Representative Work
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/eureka-audio.png' alt="Eureka-Audio" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/eureka-audio.png' alt="Eureka-Audio" width="1214" height="472" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954)
@@ -46,7 +47,7 @@ Dan Zhang, Yishu Lei, Jing Hu, **Shuwei He**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/moe-adapter.png' alt="MoE Adapter" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/moe-adapter.png' alt="MoE Adapter" width="2700" height="1730" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free](https://arxiv.org/abs/2601.02967)
@@ -58,7 +59,7 @@ Yishu Lei, **Shuwei He**, Jing Hu, Dan Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/m2se-vtts.png' alt="M2SE-VTTS" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/m2se-vtts.png' alt="M2SE-VTTS" width="1760" height="678" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech](https://arxiv.org/abs/2412.11409)
@@ -72,8 +73,10 @@ Rui Liu, **Shuwei He**, Yifan Hu, Haizhou Li
 
 ### More Publications
 
+<div class="pub-list" markdown="1">
 - <span class="pub-badge">arXiv 2025</span> [CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation](https://arxiv.org/abs/2601.16547), Jing Hu, Danxiang Zhu, Xianlong Luo, Dan Zhang, **Shuwei He**
 - <span class="pub-badge">ICASSP 2025</span> [Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech](https://arxiv.org/abs/2410.14101), **Shuwei He**, Rui Liu
+</div>
 
 # 🎖 Honors and Awards
 - *2025.12* National Scholarship

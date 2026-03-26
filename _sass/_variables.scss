@@ -155,3 +155,36 @@ $box-shadow                 : 0 2px 8px rgba(0, 0, 0, 0.08);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+
+
+/*
+   CSS Custom Properties (theme-aware)
+   ========================================================================== */
+
+:root {
+  --color-bg:           #fff;
+  --color-text:         #2c3e50;
+  --color-text-muted:   #64748b;
+  --color-text-subtle:  #94a3b8;
+  --color-primary:      #3271e7;
+  --color-primary-dark: #1e56c4;
+  --color-primary-glow: rgba(50, 113, 231, 0.15);
+  --color-link:         #3271e7;
+  --color-link-hover:   #1e56c4;
+  --color-border:       #e8ecf1;
+  --color-card-bg:      #fff;
+  --color-code-bg:      #f6f8fa;
+  --color-input-bg:     #f8fafc;
+  --color-hover-bg:     #eef2ff;
+  --color-scrollbar:    #cbd5e1;
+  --color-scrollbar-hover: #94a3b8;
+  --color-scrollbar-track: #f1f5f9;
+  --color-shadow:       rgba(0, 0, 0, 0.06);
+  --color-nav-text:     #475569;
+  --color-badge-gradient: linear-gradient(135deg, #3271e7, #1e56c4);
+  --color-avatar-ring:  linear-gradient(135deg, #3271e7, #6ea8fe, #3271e7);
+  --color-footer-bg:    #1e293b;
+  --color-footer-text:  #94a3b8;
+  --color-footer-link:  #93c5fd;
+  --color-footer-link-hover: #bfdbfe;
+}

@@ -15,12 +15,12 @@
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
-  color: #94a3b8;
+  color: var(--color-footer-text);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: #1e293b;
+  background-color: var(--color-footer-bg);
   border-top: none;
 
   footer {
@@ -37,12 +37,12 @@
   }
 
   a {
-    color: #93c5fd;
+    color: var(--color-footer-link);
     text-decoration: none;
 
     &:hover {
       text-decoration: underline;
-      color: #bfdbfe;
+      color: var(--color-footer-link-hover);
     }
   }
 
@@ -50,7 +50,7 @@
   .fab,
   .far,
   .fal {
-    color: #94a3b8;
+    color: var(--color-footer-text);
   }
 }
 

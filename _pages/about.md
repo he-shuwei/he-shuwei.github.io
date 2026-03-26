@@ -11,9 +11,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="about-intro" markdown="1">
+
 I am a researcher at the ERNIE Team, Baidu, supervised by [Prof. Rui Liu](https://ttslr.github.io/), focusing on audio-visual understanding and speech generation. I have published at top-tier conferences such as AAAI and ICASSP, and contributed to ERNIE 5.0. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 
 I am always open to research collaborations and new opportunities. If you are interested in working together or have any exciting prospects, feel free to reach out at shuwei_he@163.com.
+
+</div>
 
 
 # 🔥 News
@@ -80,11 +84,17 @@ Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corre
 </div>
 
 # 🎖 Honors and Awards
+<div class="timeline" markdown="1">
 - *2025.12* National Scholarship
 - *2021.12* National Scholarship
+</div>
 
 # 📖 Educations
+<div class="timeline" markdown="1">
 - *2023.08 - 2026.06*, Master, Inner Mongolia University, Artificial Intelligence
+</div>
 
 # 💻 Internships
+<div class="timeline" markdown="1">
 - *2025.02 - 2026.01*, Algorithm Intern, [Baidu ERNIE Bot](https://yiyan.baidu.com/), China.
+</div>

@@ -40,7 +40,7 @@ I am always open to research collaborations and new opportunities. If you are in
 
 [Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954)
 
-Dan Zhang, Yishu Lei, Jing Hu, **Shuwei He**
+Dan Zhang\*, Yishu Lei\*, Jing Hu\*, **Shuwei He**\*, Songhe Deng, Xianlong Luo, Danxiang Zhu, Shikun Feng, Rui Liu, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang (\* Equal Contribution / \* 共同一作)
 
 [**Project**](https://github.com/Alittleegg/Eureka-Audio) <i class="fab fa-github"></i>
 - This paper introduces Eureka-Audio, a compact 1.7-billion-parameter audio language model that utilizes a sparsely activated Mixture-of-Experts adapter and a novel data synthesis pipeline called DataFlux to achieve competitive audio understanding and significantly faster inference speeds compared to much larger baseline models.
@@ -52,7 +52,7 @@ Dan Zhang, Yishu Lei, Jing Hu, **Shuwei He**
 
 [MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free](https://arxiv.org/abs/2601.02967)
 
-Yishu Lei, **Shuwei He**, Jing Hu, Dan Zhang
+Yishu Lei\*, **Shuwei He**\*, Jing Hu, Dan Zhang, Xianlong Luo, Danxiang Zhu, Shikun Feng, Rui Liu, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang (\* Equal Contribution / \* 共同一作)
 
 [**Project**](https://github.com/Alittleegg/Eureka-Audio) <i class="fab fa-github"></i>
 - This paper introduces the MoE-Adapter, a sparse Mixture-of-Experts architecture designed to mitigate gradient conflicts in Large Audio Language Models by dynamically routing heterogeneous acoustic inputs to specialized experts, effectively disentangling speech, music, and sound for superior cross-modal alignment.
@@ -64,7 +64,7 @@ Yishu Lei, **Shuwei He**, Jing Hu, Dan Zhang
 
 [Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech](https://arxiv.org/abs/2412.11409)
 
-Rui Liu, **Shuwei He**, Yifan Hu, Haizhou Li
+Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corresponding Author / 通讯作者, **Shuwei He** is the first student author / **何树伟**为导师外学生一作)
 
 [**Project**](https://github.com/he-shuwei/M2SE-VTTS) <i class="fab fa-github"></i>
 - This paper introduces M$^2$SE-VTTS, an innovative multi-modal and multi-scale framework that integrates RGB and depth images with environment captions to effectively model local and global spatial contexts for synthesizing immersive reverberant speech.
@@ -74,8 +74,9 @@ Rui Liu, **Shuwei He**, Yifan Hu, Haizhou Li
 ### More Publications
 
 <div class="pub-list" markdown="1">
-- <span class="pub-badge">arXiv 2025</span> [CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation](https://arxiv.org/abs/2601.16547), Jing Hu, Danxiang Zhu, Xianlong Luo, Dan Zhang, **Shuwei He**
-- <span class="pub-badge">ICASSP 2025</span> [Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech](https://arxiv.org/abs/2410.14101), **Shuwei He**, Rui Liu
+- <span class="pub-badge">arXiv 2026</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705), ERNIE Team, Baidu (**Shuwei He** as Core Contributor / **何树伟**为核心参与者)
+- <span class="pub-badge">arXiv 2025</span> [CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation](https://arxiv.org/abs/2601.16547), Jing Hu, Danxiang Zhu, Xianlong Luo, Dan Zhang, **Shuwei He**, Yishu Lei, Haitao Zheng, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang
+- <span class="pub-badge">ICASSP 2025</span> <a href="https://arxiv.org/abs/2410.14101">Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech</a>, **Shuwei He** (First Author / 第一作者), Rui Liu
 </div>
 
 # 🎖 Honors and Awards

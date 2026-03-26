@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a researcher at the ERNIE Team, Baidu, focusing on audio-visual understanding and speech generation. I have published at top-tier conferences such as AAAI and ICASSP, and contributed to ERNIE 5.0. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+I am a researcher at the ERNIE Team, Baidu, supervised by [Prof. Rui Liu](https://ttslr.github.io/), focusing on audio-visual understanding and speech generation. I have published at top-tier conferences such as AAAI and ICASSP, and contributed to ERNIE 5.0. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 
 I am always open to research collaborations and new opportunities. If you are interested in working together or have any exciting prospects, feel free to reach out at shuwei_he@163.com.
 

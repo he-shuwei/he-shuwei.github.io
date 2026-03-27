@@ -10,7 +10,6 @@ title                    : "Shuwei He (何树伟)"
 description              : "Researcher at Baidu, working on AI models that understand video, audio, and speech, and generate natural-sounding speech."
 repository               : "he-shuwei/he-shuwei.github.io"
 url                      : "https://he-shuwei.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -40,7 +39,7 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
+
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

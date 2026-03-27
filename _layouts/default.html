@@ -31,6 +31,17 @@ layout: compress
       <i class="fas fa-chevron-up"></i>
     </button>
 
+    <div class="page__footer">
+      <footer>
+        <div class="page__footer-copyright">
+          &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
+          <span id="busuanzi_container_site_pv" class="visitor-count">
+            Total visits: <span id="busuanzi_value_site_pv"></span>
+          </span>
+        </div>
+      </footer>
+    </div>
+
     {% include scripts.html %}
 
   </body>

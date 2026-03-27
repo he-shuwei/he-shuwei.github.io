@@ -136,10 +136,10 @@
 
 .sidebar .author__name {
   @include breakpoint($medium) {
-    font-size: $type-size-4;
+    font-size: $type-size-5;
   }
   font-family: $sans-serif;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
   font-weight: 700;
   color: $primary-color;
   white-space: nowrap;

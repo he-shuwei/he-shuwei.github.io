@@ -71,12 +71,15 @@
 }
 
 .site-title {
+  flex-shrink: 0;
   font-size: 1.1em;
   font-weight: 700;
   color: var(--color-text);
   margin-right: 1.5em;
+  padding: 0.5rem 0;
   white-space: nowrap;
   text-decoration: none;
+  line-height: 1.5;
 
   &:hover {
     color: var(--color-primary);

@@ -135,13 +135,19 @@
 }
 
 .sidebar .author__name {
-  @include breakpoint($medium) {
-    font-size: $type-size-3;
-  }
   font-family: $sans-serif;
   font-size: $type-size-4;
   font-weight: 700;
   color: $primary-color;
+
+  @include breakpoint($medium) {
+    font-size: $type-size-3;
+  }
+
+  // Sidebar becomes narrow column at $large — scale down to fit
+  @include breakpoint($large) {
+    font-size: 1.15em;
+  }
 }
 
 .author__bio {

@@ -97,6 +97,7 @@
     min-width: 75px;
     height: auto;
     border-radius: 50%;
+    border: 2px solid var(--color-primary);
 
     @include breakpoint($large) {
       padding: 4px;

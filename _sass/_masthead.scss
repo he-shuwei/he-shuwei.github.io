@@ -70,6 +70,19 @@
   }
 }
 
+.site-title {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-right: 1.5em;
+  white-space: nowrap;
+  text-decoration: none;
+
+  &:hover {
+    color: var(--color-primary);
+  }
+}
+
 .theme-toggle {
   background: none;
   border: none;

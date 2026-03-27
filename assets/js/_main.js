@@ -99,6 +99,11 @@ $(document).ready(function(){
     if (!themeToggle) return;
     var icon = themeToggle.querySelector('i');
     icon.className = theme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+    // Update browser theme-color
+    var metaTheme = document.getElementById('theme-color-meta');
+    if (metaTheme) {
+      metaTheme.setAttribute('content', theme === 'dark' ? '#0d1117' : '#ffffff');
+    }
   }
 
   // ========================================================================

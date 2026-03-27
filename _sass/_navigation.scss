@@ -186,7 +186,7 @@
     font-weight: 500;
 
     &:hover {
-      color: $info-color;
+      color: var(--color-primary);
     }
   }
 
@@ -233,7 +233,7 @@
         left: 0;
         bottom: 0;
         height: 3px;
-        background: $info-color;
+        background: var(--color-primary);
         width: 100%;
         border-radius: 2px;
         -webkit-transition: $global-transition;
@@ -251,7 +251,7 @@
       }
 
       &.active {
-        color: $info-color;
+        color: var(--color-primary);
         font-weight: 600;
       }
     }

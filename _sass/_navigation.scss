@@ -207,6 +207,7 @@
   .visible-links {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
 
     li {
       white-space: nowrap;

@@ -21,7 +21,6 @@ I am always open to research collaborations and new opportunities. If you are in
 
 <div class="research-tags">
   <span class="tag">Large Audio Language Model</span>
-  <span class="tag">Large Language Model</span>
   <span class="tag">Vision-Language Model</span>
   <span class="tag">Omni Model</span>
   <span class="tag">Text-to-Speech</span>

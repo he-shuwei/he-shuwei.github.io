@@ -20,10 +20,10 @@ I am always open to research collaborations and new opportunities. If you are in
 </div>
 
 <div class="research-tags">
-  <span class="tag">LALMs</span>
-  <span class="tag">LLM</span>
-  <span class="tag">VLM</span>
-  <span class="tag">Omni</span>
+  <span class="tag">Large Audio Language Model</span>
+  <span class="tag">Large Language Model</span>
+  <span class="tag">Vision-Language Model</span>
+  <span class="tag">Omni Model</span>
   <span class="tag">Text-to-Speech</span>
   <span class="tag">Multimodal Understanding</span>
 </div>

@@ -98,7 +98,7 @@
   line-height: 1;
 
   &:hover {
-    color: $info-color;
+    color: var(--color-primary);
     transform: rotate(30deg) scale(1.2);
   }
 }

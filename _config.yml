@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuwei He (何树伟)"
-description              : "Researcher at Baidu, working on AI models that understand video, audio, and speech, and generate natural-sounding speech."
+description              : "Shuwei He (何树伟) - Researcher at Baidu ERNIE Team, supervised by Prof. Rui Liu. Research on Large Audio Language Models, Vision-Language Models, Omni Models, Text-to-Speech, and Multimodal Understanding. Published at AAAI, ICASSP. Contributed to ERNIE 5.0. | 何树伟，百度文心大模型团队研究员，导师刘瑞教授。研究方向：大音频语言模型、视觉语言模型、全模态模型、语音合成、多模态理解。"
 repository               : "he-shuwei/he-shuwei.github.io"
 url                      : "https://he-shuwei.github.io"
 

@@ -13,6 +13,11 @@
   icon: "fab fa-fw fa-github"
   label: "Github"
 
+- key: huggingface
+  url_prefix: ""
+  icon: "fas fa-fw fa-smile"
+  label: "Hugging Face"
+
 - key: orcid
   url_prefix: ""
   icon: "ai ai-orcid-square ai-fw"

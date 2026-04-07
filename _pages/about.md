@@ -48,7 +48,7 @@ I am always open to research collaborations and new opportunities. If you are in
 
 ### Representative Work
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/eureka-audio.png' alt="Eureka-Audio" width="1214" height="472" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/eureka-audio.png' alt="Eureka-Audio" width="1214" height="472" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Eureka-Audio: Triggering Audio Intelligence in Compact Language Models](https://arxiv.org/abs/2602.13954)
@@ -87,7 +87,7 @@ Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corre
 ### More Publications
 
 <div class="pub-list" markdown="1">
-- <span class="pub-badge">arXiv 2026</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705), ERNIE Team, Baidu (**Shuwei He** as Core Contributor / **何树伟**为核心参与者)
+- <span class="pub-badge">Technical Report</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705), ERNIE Team, Baidu (**Shuwei He** as Core Contributor / **何树伟**为核心参与者)
 - <span class="pub-badge">ACL 2026</span> [CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation](https://arxiv.org/abs/2601.16547), Jing Hu, Danxiang Zhu, Xianlong Luo, Dan Zhang, **Shuwei He**, Yishu Lei, Haitao Zheng, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang
 - <span class="pub-badge">ICASSP 2025</span> <a href="https://arxiv.org/abs/2410.14101">Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech</a>, **Shuwei He** (First Author / 第一作者), Rui Liu
 </div>

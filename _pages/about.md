@@ -13,7 +13,7 @@ redirect_from:
 
 <div class="about-intro" markdown="1">
 
-I am a researcher at the ERNIE Team, Baidu, supervised by [Prof. Rui Liu](https://ttslr.github.io/), focusing on audio-visual understanding and speech generation. I have published at top-tier conferences such as AAAI and ICASSP, and contributed to ERNIE 5.0. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+I am a researcher at the ERNIE Team, Baidu, supervised by [Prof. Rui Liu](https://ttslr.github.io/), focusing on audio-visual understanding and speech generation. I have published at top-tier conferences such as ACL, AAAI, and ICASSP, and contributed to ERNIE 5.0. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 
 I am always open to research collaborations and new opportunities. If you are interested in working together or have any exciting prospects, feel free to reach out at shuwei_he@163.com.
 
@@ -30,6 +30,7 @@ I am always open to research collaborations and new opportunities. If you are in
 
 # 🔥 News
 <div class="news-scroll" markdown="1">
+- *2026.04*: &nbsp;🎉 Two papers (**MoE Adapter** and **CORD**) were accepted by **ACL 2026**.
 - *2026.02*: &nbsp;🚀 Open-sourced **Eureka-Audio**, a lightweight large audio understanding model. With only 1.7B parameters, it outperforms several significantly larger models. The preprint is now available on arXiv.
 - *2026.01*: &nbsp;⭐ Participated in the core development of Baidu's **ERNIE 5.0** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE"> and was listed as a contributor in the official technical report.
 - *2025.08*: &nbsp;🎊 Received an official offer from the **Baidu ERNIE Team** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE">.
@@ -59,7 +60,7 @@ Dan Zhang\*, Yishu Lei\*, Jing Hu\*, **Shuwei He**\*, Songhe Deng, Xianlong Luo,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/moe-adapter.png' alt="MoE Adapter" width="2700" height="1730" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/moe-adapter.png' alt="MoE Adapter" width="2700" height="1730" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free](https://arxiv.org/abs/2601.02967)
@@ -87,7 +88,7 @@ Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corre
 
 <div class="pub-list" markdown="1">
 - <span class="pub-badge">arXiv 2026</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705), ERNIE Team, Baidu (**Shuwei He** as Core Contributor / **何树伟**为核心参与者)
-- <span class="pub-badge">arXiv 2025</span> [CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation](https://arxiv.org/abs/2601.16547), Jing Hu, Danxiang Zhu, Xianlong Luo, Dan Zhang, **Shuwei He**, Yishu Lei, Haitao Zheng, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang
+- <span class="pub-badge">ACL 2026</span> [CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation](https://arxiv.org/abs/2601.16547), Jing Hu, Danxiang Zhu, Xianlong Luo, Dan Zhang, **Shuwei He**, Yishu Lei, Haitao Zheng, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang
 - <span class="pub-badge">ICASSP 2025</span> <a href="https://arxiv.org/abs/2410.14101">Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech</a>, **Shuwei He** (First Author / 第一作者), Rui Liu
 </div>
 

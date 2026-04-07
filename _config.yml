@@ -38,6 +38,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - google7c95ddacefe93452.html
 exclude:
   - docs
 

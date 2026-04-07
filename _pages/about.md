@@ -84,12 +84,23 @@ Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corre
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ms2ku-vtts.png' alt="MS2KU-VTTS" width="1760" height="678" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech](https://arxiv.org/abs/2410.14101)
+
+**Shuwei He** (First Author / 第一作者), Rui Liu
+
+[**Project**](https://github.com/he-shuwei/MS2KU-VTTS) <i class="fab fa-github"></i>
+- This paper presents MS$^2$KU-VTTS, a multi-source spatial knowledge understanding framework for immersive visual text-to-speech synthesis.
+</div>
+</div>
+
 ### More Publications
 
 <div class="pub-list" markdown="1">
 - <span class="pub-badge">Technical Report</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705), ERNIE Team, Baidu (**Shuwei He** as Core Contributor / **何树伟**为核心参与者)
 - <span class="pub-badge">ACL 2026</span> [CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation](https://arxiv.org/abs/2601.16547), Jing Hu, Danxiang Zhu, Xianlong Luo, Dan Zhang, **Shuwei He**, Yishu Lei, Haitao Zheng, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang
-- <span class="pub-badge">ICASSP 2025</span> <a href="https://arxiv.org/abs/2410.14101">Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech</a>, **Shuwei He** (First Author / 第一作者), Rui Liu
 </div>
 
 # 🎖 Honors and Awards

@@ -92,7 +92,7 @@ Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corre
 **Shuwei He** (First Author / 第一作者), Rui Liu
 
 [**Project**](https://github.com/he-shuwei/MS2KU-VTTS) <i class="fab fa-github"></i>
-- This paper presents MS$^2$KU-VTTS, a multi-source spatial knowledge understanding framework for immersive visual text-to-speech synthesis.
+- This paper introduces MS$^2$KU-VTTS, a novel framework that dynamically integrates multi-source spatial knowledge—such as RGB images, depth data, speaker positions, and semantic captions—to generate immersive, environment-matched reverberant speech.
 </div>
 </div>
 

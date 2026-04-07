@@ -17,9 +17,7 @@ I am now working as a researcher at the ERNIE Team, Baidu. If you are seeking an
 
 I graduated from [Inner Mongolia University (内蒙古大学)](https://www.imu.edu.cn/) with a master's degree, advised by [Prof. Rui Liu](https://ttslr.github.io/). I also collaborate closely with [HaiFeng Wang](https://haifengwang.net/) from Baidu.
 
-I won the National Scholarship in 2021 and 2025.
-
-My research interests include audio-visual understanding and speech generation. I have published multiple papers at top international AI conferences such as ACL, AAAI, and ICASSP. Additionally, I actively contributed to the development of the ERNIE 5.0 foundation model. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+My research interests include audio-visual understanding and speech generation. I have published multiple papers at top international AI conferences such as ACL, AAAI, and ICASSP, and actively contributed to the development of the ERNIE 5.0 foundation model. I was honored with the National Scholarship in both 2021 and 2025. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 
 </div>
 

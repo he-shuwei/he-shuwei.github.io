@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://he-shuwei.github.io/sitemap.xml

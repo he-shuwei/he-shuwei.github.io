@@ -13,11 +13,11 @@ redirect_from:
 
 <div class="about-intro" markdown="1">
 
-I am now working as a researcher at the ERNIE Team, Baidu. If you are seeking any form of academic cooperation, please feel free to email me at shuwei_he@163.com.
+I am currently a Researcher at the ERNIE Team, Baidu, where I contribute to the overall development of Omni foundation models. If you are interested in academic collaboration, please feel free to contact me at shuwei_he@163.com.
 
-I graduated from [Inner Mongolia University (内蒙古大学)](https://www.imu.edu.cn/) with a master's degree, advised by [Prof. Rui Liu](https://ttslr.github.io/). I also collaborate closely with [HaiFeng Wang](https://haifengwang.net/) from Baidu.
+I received my master's degree from [Inner Mongolia University (内蒙古大学)](https://www.imu.edu.cn/), under the supervision of [Prof. Rui Liu](https://ttslr.github.io/). In both academic research and project development, I have worked closely with [Dr. Haifeng Wang](https://haifengwang.net/) from Baidu and [Prof. Haizhou Li](https://www.colips.org/~eleliha/) The Chinese University of Hong Kong, Shenzhen.
 
-My research interests include audio-visual understanding and speech generation. I have published multiple papers at top international AI conferences such as ACL, AAAI, and ICASSP, and actively contributed to the development of the ERNIE 5.0 foundation model. I was honored with the National Scholarship in both 2021 and 2025. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+My research has been published in leading international conferences in artificial intelligence and speech processing, including ACL, AAAI, and ICASSP. I have also actively contributed to the development of the ERNIE 5.0 foundation model. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 
 </div>
 

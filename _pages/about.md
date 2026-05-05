@@ -15,7 +15,7 @@ redirect_from:
 
 I am currently a Researcher at the ERNIE Team, Baidu, where I contribute to the overall development of Omni foundation models. If you are interested in academic collaboration, please feel free to contact me at shuwei_he@163.com.
 
-I received my master's degree from [Inner Mongolia University (内蒙古大学)](https://www.imu.edu.cn/), under the supervision of [Prof. Rui Liu](https://ttslr.github.io/). In both academic research and project development, I have worked closely with [Dr. Haifeng Wang](https://haifengwang.net/) from Baidu and [Prof. Haizhou Li](https://www.colips.org/~eleliha/) The Chinese University of Hong Kong, Shenzhen.
+I received my master's degree from [Inner Mongolia University (内蒙古大学)](https://www.imu.edu.cn/), under the supervision of [Prof. Rui Liu](https://ttslr.github.io/). In both academic research and project development, I have worked closely with [Dr. Haifeng Wang](https://haifengwang.net/) from Baidu and [Prof. Haizhou Li](https://www.colips.org/~eleliha/) from The Chinese University of Hong Kong, Shenzhen.
 
 My research has been published in leading international conferences in artificial intelligence and speech processing, including ACL, AAAI, and ICASSP. I have also actively contributed to the development of the ERNIE 5.0 foundation model. <a href='https://scholar.google.com/citations?user=nikCmlkAAAAJ'><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 
@@ -34,11 +34,11 @@ My research has been published in leading international conferences in artificia
 <div class="news-scroll" markdown="1">
 - *2026.04*: &nbsp;🎉 Two papers (**MoE Adapter** and **CORD**) were accepted by **Findings of ACL 2026**.
 - *2026.02*: &nbsp;🚀 Open-sourced **Eureka-Audio**, a lightweight large audio understanding model. With only 1.7B parameters, it outperforms several significantly larger models. The preprint is now available on arXiv.
-- *2026.01*: &nbsp;⭐ Participated in the core development of Baidu's **ERNIE 5.0** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE"> and was listed as a contributor in the official technical report.
+- *2026.01*: &nbsp;⭐ Participated in the core development of Baidu's **ERNIE 5.0 (文心一言)** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE"> and was listed as a contributor in the official technical report.
 - *2025.12*: &nbsp;🎊 Awarded the National Scholarship (研究生国家奖学金) during my master’s studies.
 - *2025.12*: &nbsp;🎊 Academic Scholarship during my master’s studies (研究生学业奖学金).
-- *2025.08*: &nbsp;💼 Received an official offer from the **Baidu ERNIE Team** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE">.
-- *2025.02*: &nbsp;💼 Joined the **Baidu ERNIE Foundation Model Team** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE"> as a Large Model Algorithm Intern.
+- *2025.08*: &nbsp;💼 Received an official offer from the **Baidu ERNIE Team (文心一言)** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE">.
+- *2025.02*: &nbsp;💼 Joined the **Baidu ERNIE Foundation Model Team (文心一言)** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE"> as a Large Model Algorithm Intern.
 - *2024.12*: &nbsp;🎉 Our paper **MS$^2$KU-VTTS** was accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🎉 Our paper **M$^2$SE-VTTS** was accepted by **AAAI 2025**.
 - *2023.12*: &nbsp;🎊 Academic Scholarship during my master’s studies (研究生学业奖学金).
@@ -123,5 +123,5 @@ Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corre
 
 # 💻 Internships
 <div class="timeline" markdown="1">
-- *2025.02 - 2026.01*, Algorithm Intern, [Baidu ERNIE Bot](https://yiyan.baidu.com/), China.
+- *2025.02 - 2026.01*, Algorithm Intern, [Baidu ERNIE Bot (文心一言)](https://yiyan.baidu.com/), China.
 </div>

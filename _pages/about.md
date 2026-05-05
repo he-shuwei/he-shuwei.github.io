@@ -35,13 +35,13 @@ My research has been published in leading international conferences in artificia
 - *2026.04*: &nbsp;🎉 Two papers (**MoE Adapter** and **CORD**) were accepted by **Findings of ACL 2026**.
 - *2026.02*: &nbsp;🚀 Open-sourced **Eureka-Audio**, a lightweight large audio understanding model. With only 1.7B parameters, it outperforms several significantly larger models. The preprint is now available on arXiv.
 - *2026.01*: &nbsp;⭐ Participated in the core development of Baidu's **ERNIE 5.0 (文心一言)** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE"> and was listed as a contributor in the official technical report.
-- *2025.12*: &nbsp;🎊 Awarded the National Scholarship (研究生国家奖学金) during my master’s studies.
-- *2025.12*: &nbsp;🎊 Academic Scholarship during my master’s studies (研究生学业奖学金).
+- *2025.12*: &nbsp;🎊 Awarded the **National Scholarship (研究生国家奖学金)** during my master’s studies.
+- *2025.12*: &nbsp;🎊 Academic **Scholarship** during my master’s studies **(研究生学业奖学金)**.
 - *2025.08*: &nbsp;💼 Received an official offer from the **Baidu ERNIE Team (文心一言)** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE">.
 - *2025.02*: &nbsp;💼 Joined the **Baidu ERNIE Foundation Model Team (文心一言)** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE"> as a Large Model Algorithm Intern.
 - *2024.12*: &nbsp;🎉 Our paper **MS$^2$KU-VTTS** was accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🎉 Our paper **M$^2$SE-VTTS** was accepted by **AAAI 2025**.
-- *2023.12*: &nbsp;🎊 Academic Scholarship during my master’s studies (研究生学业奖学金).
+- *2023.12*: &nbsp;🎊 Academic **Scholarship** during my master’s studies **(研究生学业奖学金)**.
 </div>
 
 # 📝 Publications

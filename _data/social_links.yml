@@ -18,6 +18,11 @@
   icon: "fas fa-fw fa-smile"
   label: "Hugging Face"
 
+- key: openreview
+  url_prefix: ""
+  icon: "fas fa-fw fa-file-alt"
+  label: "OpenReview"
+
 - key: orcid
   url_prefix: ""
   icon: "ai ai-orcid-square ai-fw"

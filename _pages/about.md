@@ -106,6 +106,7 @@ Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corre
 <div class="pub-list" markdown="1">
 - <span class="pub-badge">Technical Report</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705), ERNIE Team, Baidu (**Shuwei He** as Core Contributor / **何树伟**为核心参与者)
 - <span class="pub-badge">Findings of ACL 2026</span> [CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation](https://arxiv.org/abs/2601.16547), Jing Hu, Danxiang Zhu, Xianlong Luo, Dan Zhang, **Shuwei He**, Yishu Lei, Haitao Zheng, Shikun Feng, Jingzhou He, Yu Sun, Hua Wu, Haifeng Wang
+- <span class="pub-badge">arXiv 2026</span> [CodecCap: High-Fidelity Codec-Inspired Residual Modeling for Dense Video Captioning](https://arxiv.org/abs/2605.26967), Zihan Lin\*, Songhe Deng\*, **Shuwei He**\*, Danxiang Zhu, Dan Zhang, Yishu Lei, Xianlong Luo, Shikun Feng, Rui Liu (\* Equal Contribution / \* 共同一作)
 </div>
 
 # 🎖 Honors and Awards

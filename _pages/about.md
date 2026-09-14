@@ -13,7 +13,7 @@ redirect_from:
 
 <div class="about-intro" markdown="1">
 
-I am currently a Researcher at the ERNIE Team, Baidu, where I contribute to the overall development of Omni foundation models. If you are interested in academic collaboration, please feel free to contact me at shuwei_he@163.com.
+I am currently a Researcher at the ERNIE Team, Baidu, where I contribute to the overall development of multimodal foundation models. If you are interested in academic collaboration, please feel free to contact me at shuwei_he@163.com.
 
 I received my master's degree from [Inner Mongolia University (内蒙古大学)](https://www.imu.edu.cn/), under the supervision of [Prof. Rui Liu](https://ttslr.github.io/). In both academic research and project development, I have worked closely with [Dr. Haifeng Wang](https://haifengwang.net/) from Baidu and [Prof. Haizhou Li](https://www.colips.org/~eleliha/) from The Chinese University of Hong Kong, Shenzhen.
 
@@ -24,7 +24,7 @@ My research has been published in leading international conferences in artificia
 <div class="research-tags">
   <span class="tag">Large Audio Language Model</span>
   <span class="tag">Vision-Language Model</span>
-  <span class="tag">Omni Model</span>
+  <span class="tag">Multimodal Model</span>
   <span class="tag">Text-to-Speech</span>
   <span class="tag">Multimodal Understanding</span>
 </div>

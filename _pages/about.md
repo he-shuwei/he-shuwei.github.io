@@ -32,6 +32,7 @@ My research has been published in leading international conferences in artificia
 
 # 🔥 News
 <div class="news-scroll" markdown="1">
+- *2026.07*: &nbsp;🎉 Our paper **FacialTalker** was accepted by **ACM MM 2026**.
 - *2026.04*: &nbsp;🎉 Two papers (**MoE Adapter** and **CORD**) were accepted by **Findings of ACL 2026**.
 - *2026.02*: &nbsp;🚀 Open-sourced **Eureka-Audio**, a lightweight large audio understanding model. With only 1.7B parameters, it outperforms several significantly larger models. The preprint is now available on **arXiv** <img class="news-icon" src="images/icon-arxiv.png" alt="arXiv">.
 - *2026.01*: &nbsp;⭐ Participated in the core development of Baidu's **ERNIE 5.0 (文心一言)** <img class="news-icon" src="images/icon-ernie.png" alt="ERNIE"> and was listed as a contributor in the official technical report.

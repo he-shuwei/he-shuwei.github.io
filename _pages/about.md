@@ -118,11 +118,6 @@ Rui Liu<sup>†</sup>, **Shuwei He**, Yifan Hu, Haizhou Li (<sup>†</sup> Corre
 - *2021.12* National Scholarship for Undergraduate Students (本科生国家奖学金)
 </div>
 
-# 📖 Educations
-<div class="timeline" markdown="1">
-- *2023.08 - 2026.06*, Master, Inner Mongolia University, Artificial Intelligence
-</div>
-
 # 💻 Internships
 <div class="timeline" markdown="1">
 - *2025.02 - 2026.01*, Algorithm Intern, [Baidu ERNIE Bot (文心一言)](https://yiyan.baidu.com/), China.

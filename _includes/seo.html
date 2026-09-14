@@ -62,7 +62,6 @@
   {% if site.author.email %}"email": "{{ site.author.email }}",{% endif %}
   {% if site.author.job_title %}"jobTitle": "{{ site.author.job_title }}",{% endif %}
   {% if site.author.affiliation %}"worksFor": { "@type": "Organization", "name": "{{ site.author.affiliation }}" },{% endif %}
-  {% if site.author.alma_mater %}"alumniOf": { "@type": "CollegeOrUniversity", "name": "{{ site.author.alma_mater }}" },{% endif %}
   {% if site.author.location %}"address": { "@type": "PostalAddress", "addressLocality": "{{ site.author.location | escape }}" },{% endif %}
   {% if site.author.knows_about %}"knowsAbout": [{% for topic in site.author.knows_about %}"{{ topic }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],{% endif %}
   "sameAs": [

@@ -24,7 +24,6 @@ My research has been published in leading international conferences in artificia
 <div class="research-tags">
   <span class="tag">Large Audio Language Model</span>
   <span class="tag">Vision-Language Model</span>
-  <span class="tag">Multimodal Model</span>
   <span class="tag">Text-to-Speech</span>
   <span class="tag">Multimodal Understanding</span>
 </div>
